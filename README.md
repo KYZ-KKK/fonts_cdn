@@ -6,4 +6,7 @@ https://cdn.jsdelivr.net/gh/KYZ-KKK/fonts_cdn/2291851882291561342281891472311741
 ### 站酷黄油
 https://cdn.jsdelivr.net/gh/KYZ-KKK/fonts_cdn/35721684253846621875396814268752176.woff
 
+### 站酷小薇
+https://cdn.jsdelivr.net/gh/KYZ-KKK/fonts_cdn/362486795563124369753624927582641325.woff
+
 ### 待续
